@@ -15,5 +15,7 @@
 <li>RapidApi</li>
 </ul>
 
+<p>Deployed using GitHub Pages</p>
+
 
 Find the Weather here: https://sonic-here.github.io/Weather-App/
