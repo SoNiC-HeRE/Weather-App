@@ -4,7 +4,7 @@
 <ul>
 <li>Temperature Stats</li>
 <li>Humidity Stats</li>
-<li>Sun Stats<li>
+<li>Sun Stats</li>
 </ul>
 
 <h1>Built Using:</h1>
@@ -14,5 +14,6 @@
 <li>BootStrap5</li>
 <li>RapidApi</li>
 </ul>
+
 
 Find the Weather here: 
